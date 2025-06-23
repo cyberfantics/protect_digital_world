@@ -56,14 +56,14 @@ In the digital age, every click leaves a trace. This session, **"Protect Your Di
 
 <table>
   <tr>
-    <td><img src="images/1.jpg" width="200"/></td>
-    <td><img src="images/2.jpg" width="200"/></td>
-    <td><img src="images/3.jpg" width="200"/></td>
+    <td><img src="Images/1.jpg" width="200"/></td>
+    <td><img src="Images/2.jpg" width="200"/></td>
+    <td><img src="Images/3.jpg" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/4.jpg" width="200"/></td>
-    <td><img src="images/5.jpg" width="200"/></td>
-    <td><img src="images/6.jpg" width="200"/></td>
+    <td><img src="Images/4.jpg" width="200"/></td>
+    <td><img src="Images/5.jpg" width="200"/></td>
+    <td><img src="Images/6.jpg" width="200"/></td>
   </tr>
 </table>
 
